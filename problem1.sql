@@ -1,1 +1,1 @@
-INSERT INTO song (title, artist) VALUES (val_1, val_2);
+INSERT INTO song (title, artist) VALUES ("The Joshua Tree", "U2");
